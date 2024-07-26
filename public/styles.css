@@ -1,0 +1,19 @@
+
+.rolebuttons button {
+  margin-right: 20px;
+  margin-left: 20px;
+}
+
+.adminTasks button{
+  margin-right: 20px;
+  margin-left: 20px;
+}
+
+#roomOne {
+  width: auto; 
+}
+
+.test {
+  /* background-color: rgb(223, 209, 255); */
+  border: 1px solid blue;
+}
